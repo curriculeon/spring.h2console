@@ -129,8 +129,8 @@
         <entry key="$PROJECT_DIR$/../2. Face Recognition/Project/Face Detection" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../demo-mock-mvc-gh-7321" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../demo-mock-mvc-gh-7321 2" value="PREVIEW" />
-        <entry key="$USER_HOME$/dev/demo.dl4j" value="PREVIEW" />
-        <entry key="$USER_HOME$/dev/rhymer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../demo.dl4j" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../rhymer" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -146,10 +146,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="38" />
-    <option name="width" value="1880" />
-    <option name="height" value="1042" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
